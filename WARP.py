@@ -97,7 +97,7 @@ while True:
  ░    ░   ▒ ▒ ░░    ░ ░   ░ ░ ░ ▒     ░   ░ ░ 
  ░    ░   ░ ░         ░  ░    ░ ░           ░ 
           ░ ░                                """)
-		time.sleep(18)
+		time.sleep(05)
 	else:
 		b = b + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
