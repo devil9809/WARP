@@ -6,7 +6,7 @@ import string
 import time
 import os
 import sys
-os.system("𝐖𝐀𝐑𝐏+  𝐒𝐂𝐑𝐈𝐏𝐓" + " 𝐌𝐀𝐃𝐄 𝐁𝐘 ​Ratul)
+os.system("𝐖𝐀𝐑𝐏+  𝐒𝐂𝐑𝐈𝐏𝐓" + " 𝐌𝐀𝐃𝐄 𝐁𝐘 ​Ratul ")
 os.system('cls' if os.name == 'nt' else 'clear')
 #__________________[ SYS ]__________________#
 sys.stdout.write('\x1b]2;)☢️WARP ☣️FREE♻️ GP🔰\x07')
