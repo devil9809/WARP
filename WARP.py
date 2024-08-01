@@ -1,4 +1,4 @@
-�jh��ڱ�{�m����ל�כimport urllib.request
+import urllib.request
 import json
 import datetime
 import random
