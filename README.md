@@ -25,7 +25,7 @@ python WARP.py
 
 
 #### SCREENSHOT
-![logo](https://github.com/Xylon-404/PIC/blob/main/Screenshot_20240712-121419.png)
+![logo](https://github.com/devil9809/WARP/blob/main/WRAP%2B%20id%20.png)
 
 #### WORKING
-![logo](https://github.com/Xylon-404/Xylon-404/blob/main/Warning.gif)
+![logo](https://github.com/devil9809/WARP/blob/main/Warning.gif)
